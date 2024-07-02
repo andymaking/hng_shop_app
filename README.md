@@ -20,12 +20,12 @@ Just click on the link below
 
 ## GALLERY
 
-![PRODUCT PAGE](https://github.com/andymaking/hng_shop_app/assets/images/1.png)
-![PRODUCT PAGE - WITH TOAST AFTER ADDING TO CART](https://github.com/andymaking/hng_shop_app/assets/images/2.png)
-![CART PAGE](https://github.com/andymaking/hng_shop_app/assets/images/3.png)
-![CART PAGE - DIALOG TO REMOVE AN ITEM FROM CART](https://github.com/andymaking/hng_shop_app/assets/images/4.png)
-![CART PAGE - ITEM REMOVED AND PRICE CHANGE](https://github.com/andymaking/hng_shop_app/assets/images/5.png)
-![SUCCESS PAGE ON CLEARING CHECKOUT](https://github.com/andymaking/hng_shop_app/assets/images/6.png)
+![PRODUCT PAGE](https://github.com/andymaking/hng_shop_app/blob/main/assets/images/1.png)
+![PRODUCT PAGE - WITH TOAST AFTER ADDING TO CART](https://github.com/andymaking/hng_shop_app/blob/main/assets/images/2.png)
+![CART PAGE](https://github.com/andymaking/hng_shop_app/blob/main/assets/images/3.png)
+![CART PAGE - DIALOG TO REMOVE AN ITEM FROM CART](https://github.com/andymaking/hng_shop_app/blob/main/assets/images/4.png)
+![CART PAGE - ITEM REMOVED AND PRICE CHANGE](https://github.com/andymaking/hng_shop_app/blob/main/assets/images/5.png)
+![SUCCESS PAGE ON CLEARING CHECKOUT](https://github.com/andymaking/hng_shop_app/blob/main/assets/images/5.png)
 
 ## DOWNLOAD THE APK
 Just click on the link below to download the App
